@@ -1,0 +1,131 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT46W-7-F
+D Diodes Inc BAT46W-7-F, SMT Schottky Diode, 100V 150mA, 2-Pin SOD-123
+F https://componentsearchengine.com/Datasheets/2/BAT46W-7-F.pdf
+$ENDCMP
+#
+$CMP BAT46WH,115
+D NXP BAT46WH, SMT Diode, 2-Pin SOD-123F
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/aa87cfec7d553ab5a95524360b84cf1b.pdf
+$ENDCMP
+#
+$CMP BLM18PG221SN1D
+D BL Chip Ferrite Bead 0603
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+$CMP BSS84AK,215
+D BSS84AK,215 P-Channel MOSFET, 180 mA, 50 V, 3-Pin SOT-23 Nexperia
+F http://uk.rs-online.com/web/p/products/7920908
+$ENDCMP
+#
+$CMP DSHP06TSGET
+D SPST 6 1.27mm, Half Slide (Standard) Black SMD DIP Switches
+F https://datasheet.lcsc.com/szlcsc/1810191313_Dongguan-Guangzhu-Industrial-DSHP06TSGET_C40737.pdf
+$ENDCMP
+#
+$CMP EEE-FK0J102GP
+D Panasonic 1000F 6.3V dc Aluminium Electrolytic Capacitor, Surface Mount 8 (Dia.) x 10.2mm +105C 8mm
+F https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf
+$ENDCMP
+#
+$CMP HX711
+D HX711
+F https://cdn.sparkfun.com/datasheets/Sensors/ForceFlex/hx711_english.pdf
+$ENDCMP
+#
+$CMP MMBT4403
+D MMBT4403
+F https://www.fairchildsemi.com/datasheets/2N/2N4403.pdf
+$ENDCMP
+#
+$CMP NCP161ASN330T1G
+D ON SEMICONDUCTOR - NCP161ASN330T1G - Fixed LDO Voltage Regulator, 1.9V to 5.5V, 225mV drop, 3.3V/450mA out, SOT-23-5
+F https://componentsearchengine.com/Datasheets/2/NCP161ASN330T1G.pdf
+$ENDCMP
+#
+$CMP PCF8563T_5,518
+D Real Time Clock
+F http://www.nxp.com/docs/en/data-sheet/PCF8563.pdf
+$ENDCMP
+#
+$CMP PMEG10010ELRX
+D Diode Schottky 100V 1A Surface Mount CFP3
+F http://assets.nexperia.com/documents/data-sheet/PMEG10010ELR.pdf
+$ENDCMP
+#
+$CMP PMEG10020AELPX
+D Schottky Diodes & Rectifiers 2A Schottky Barrier Rectifier
+F https://assets.nexperia.com/documents/data-sheet/PMEG10020AELP.pdf
+$ENDCMP
+#
+$CMP RFM69HCW
+D Low power ISM Radio Transceiver Module, SPI interface, AES encryption, 434 or 915 MHz, up to 100mW, up to 300 kb/s, SMD-16, DIP-16
+K low power Radio ISM Transceiver Module AES encryption SPI HopeRF
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcb8284d838.pdf
+$ENDCMP
+#
+$CMP RFM95W-868S2
+D Low power long range transceiver module, SPI and parallel interface, 868 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16
+K Low power long range transceiver module
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf
+$ENDCMP
+#
+$CMP RFM95W-915S2
+D Low power long range transceiver module, SPI and parallel interface, 915 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16
+K Low power long range transceiver module
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf
+$ENDCMP
+#
+$CMP RFM96W-315S2
+D Low power long range transceiver module, SPI and parallel interface, 315 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16
+K Low power long range transceiver module
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcc0ac60235.pdf
+$ENDCMP
+#
+$CMP RFM96W-433S2
+D Low power long range transceiver module, SPI and parallel interface, 433 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16
+K Low power long range transceiver module
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcc0ac60235.pdf
+$ENDCMP
+#
+$CMP RFM97W-868S2
+D Low power long range transceiver module, SPI and parallel interface, 868 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -139 dBm, SMD-16, DIP-16
+K Low power long range transceiver module
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf
+$ENDCMP
+#
+$CMP RFM97W-915S2
+D Low power long range transceiver module, SPI and parallel interface, 915 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -139 dBm, SMD-16, DIP-16
+K Low power long range transceiver module
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf
+$ENDCMP
+#
+$CMP RFM98W-315S2
+D Low power long range transceiver module, SPI and parallel interface, 315 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16
+K Low power long range transceiver module
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcdb5e17543.pdf
+$ENDCMP
+#
+$CMP RFM98W-433S2
+D Low power long range transceiver module, SPI and parallel interface, 433 MHz, spreading factor 6 to12, bandwith 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16
+K Low power long range transceiver module
+F https://www.hoperf.com/data/upload/portal/20181127/5bfcdb5e17543.pdf
+$ENDCMP
+#
+$CMP SIP32431DR3-T1GE3
+D VISHAY - SIP32431DR3-T1GE3 - IC, LOAD SWITCH, 1.1V-5.5V, 1A, SC70
+F https://www.vishay.com/docs/66597/sip32431.pdf
+$ENDCMP
+#
+$CMP TPS63031
+F https://www.ti.com/lit/ds/symlink/tps63031.pdf?ts=1600756672780&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS63031
+$ENDCMP
+#
+$CMP W25Q32JVSSIQ_TR
+D NOR Flash spiFlash, 32M-bit, DTR, 4Kb Uniform Sector
+F https://www.winbond.com/resource-files/w25q32jv%20spi%20revc%2008302016.pdf
+$ENDCMP
+#
+#End Doc Library
